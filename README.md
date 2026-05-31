@@ -82,28 +82,28 @@ Components Used
 Workflow
 
 START
-  ↓
+  ->
 Normal Traffic Cycle
-  ↓
+  ->
 Check Button (TX)
-  ↓
+  ->
 Button Pressed?
-  ↓ YES
+  ->if YES then
 Send RF Signal
-  ↓
+  ->
 Receiver Gets Signal?
-  ↓ YES
+  -> if YES
 Activate Emergency Mode
-  ↓
+  ->
 Green for Emergency Lane
 Red for Other Lanes
 Buzzer ON
 LCD Update
-  ↓
+  ->
 Wait Few Seconds
-  ↓
+  ->
 Return to Normal Cycle
-  ↓
+  ->
 REPEAT
 
 ---
