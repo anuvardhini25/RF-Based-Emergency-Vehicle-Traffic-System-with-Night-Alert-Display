@@ -184,8 +184,11 @@ Future Enhancements
 
 ---
 
-Author
+Authors
 
-ANUVARDHINI T
+ANUVARDHINI T 
+SHALINI S
+SUBALAKSHMI R
+PRIYANKA S
 
-Information Technology Student
+Information Technology Students
