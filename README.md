@@ -184,6 +184,13 @@ Future Enhancements
 
 ---
 
+## Demonstration Video
+
+[View Project Demo](hardware_demo.mp4)
+
+---
+
+
 Authors
 
 ANUVARDHINI T 
