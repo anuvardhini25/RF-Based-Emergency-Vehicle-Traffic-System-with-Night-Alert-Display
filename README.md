@@ -33,6 +33,8 @@ Objective
 ![Hardware Setup](hardware_setup.jpeg)
 
 
+---
+
 Key Innovation
 
 A distinguishing feature of this project is the integration of a Night Alert Display with emergency vehicle prioritization.
